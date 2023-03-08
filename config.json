@@ -1,0 +1,14 @@
+{
+	"camera": {
+		"device": 0,
+		"width": 800,
+		"height": 600,
+		"focus": "auto"
+	},
+	"calibration_board": {
+		"squares_x": 8,
+		"squares_y": 12,
+		"square_length_millimeters": 20,
+		"marker_length_millimeters": 10
+	}
+}
